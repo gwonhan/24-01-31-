@@ -90,6 +90,7 @@ public class Application03 {
         /*목차. 2-8. boolean 형은 의문문으로 가급적 긍정형태로 네이밍한다.*/
         boolean isAlive = true;
         boolean isDead = false; // 부정형 보다는 긍정형이 더 나은 방식이다. 명확한 구분이 필요
+        // ㅇㅁㅇ
 
 
 
