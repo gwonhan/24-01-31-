@@ -91,7 +91,7 @@ public class Application03 {
         boolean isAlive = true;
         boolean isDead = false; // 부정형 보다는 긍정형이 더 나은 방식이다. 명확한 구분이 필요
         // ㅇㅁㅇ
-
+        //123123
 
 
     }
